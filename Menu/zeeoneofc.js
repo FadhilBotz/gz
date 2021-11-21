@@ -9,7 +9,7 @@ return`Hallo Kak ${pushname}🤗
 💹 Balance : $${getBalance(sender, balance)}
 
 
-*Owner Menu*${petik}
+*OWNER MENU*${petik}
 ${simbolnya} ${prefix}bc
 ${simbolnya} ${prefix}exif
 ${simbolnya} ${prefix}ban
@@ -34,7 +34,7 @@ ${simbolnya}  =>
 ${simbolnya}  $
 ${simbolnya}  <${petik}
 
-*Download Menu*${petik}
+*DOWNLOAD MENU*${petik}
 ${simbolnya} ${prefix}play [query]
 ${simbolnya} ${prefix}ytmp3 [url]
 ${simbolnya} ${prefix}ytmp4 [url]
@@ -50,7 +50,7 @@ ${simbolnya} ${prefix}tiktokaudio [url]
 ${simbolnya} ${prefix}tiktoknowm [url]
 ${simbolnya} ${prefix}mediafire [url]${petik}
 
-*Convert Menu*${petik}
+*CONVERT MENU*${petik}
 ${simbolnya} ${prefix}sticker
 ${simbolnya} ${prefix}swm
 ${simbolnya} ${prefix}take
@@ -73,11 +73,11 @@ ${simbolnya} ${prefix}detikvn
 ${simbolnya} ${prefix}tupai
 ${simbolnya} ${prefix}vibrato${petik}
 
-*Editor Menu*${petik}
+*EDITOR MENU*${petik}
 ${simbolnya} ${prefix}memegen teks atas | teks bawah
 ${simbolnya} ${prefix}stickmeme teks${petik}
 
-*Search Menu*${petik}
+*SEARCH MENU*${petik}
 ${simbolnya} ${prefix}caripesan
 ${simbolnya} ${prefix}pinterest
 ${simbolnya} ${prefix}wikipedia
@@ -85,7 +85,7 @@ ${simbolnya} ${prefix}playstore
 ${simbolnya} ${prefix}brainly
 ${simbolnya} ${prefix}yts${petik}
 
-*Storage Menu*${petik}
+*STORAGE MENU*${petik}
 ${simbolnya} ${prefix}addrespon
 ${simbolnya} ${prefix}delrespon
 ${simbolnya} ${prefix}listrespon
@@ -105,7 +105,7 @@ ${simbolnya} ${prefix}addsticker
 ${simbolnya} ${prefix}liststicker
 ${simbolnya} ${prefix}delstik${petik}
 
-*Fun Menu*${petik}
+*FUN MENU*${petik}
 ${simbolnya} ${prefix}slot
 ${simbolnya} ${prefix}truth
 ${simbolnya} ${prefix}dare
@@ -114,7 +114,7 @@ ${simbolnya} ${prefix}delvote
 	vote
 	devote${petik}
    
-*Group Menu*${petik}
+*GROUP MENU*${petik}
 ${simbolnya} ${prefix}chatinfo
 ${simbolnya} ${prefix}afk reason
 ${simbolnya} ${prefix}hidetag
@@ -135,7 +135,7 @@ ${simbolnya} ${prefix}antibadword [on/off]
 ${simbolnya} ${prefix}antilink [on/off]
 ${simbolnya} ${prefix}antitroli [on/off]${petik}
    
-*Limit Menu*${petik}
+*LIMIT MENU*${petik}
 ${simbolnya} ${prefix}topbalance
 ${simbolnya} ${prefix}toplimit
 ${simbolnya} ${prefix}limit
@@ -145,7 +145,7 @@ ${simbolnya} ${prefix}buylimit Nominal
 ${simbolnya} ${prefix}giftlimit @tag | nominal
 ${simbolnya} ${prefix}buyprem [need 1k limit]${petik}
    
-*Maker Menu*${petik}
+*MAKER MENU*${petik}
 ${simbolnya} ${prefix}nuliskanan
 ${simbolnya} ${prefix}nuliskiri
 ${simbolnya} ${prefix}foliokanan
@@ -162,7 +162,7 @@ ${simbolnya} ${prefix}smoke
 ${simbolnya} ${prefix}burnpaper
 ${simbolnya} ${prefix}grass${petik}
 
-*Others Menu*${petik}
+*OTHER MENU*${petik}
 ${simbolnya} ${prefix}pantun
 ${simbolnya} ${prefix}faktaunik
 ${simbolnya} ${prefix}styletext
